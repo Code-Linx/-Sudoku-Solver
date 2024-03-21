@@ -1,0 +1,9 @@
+body {
+  display: grid;
+  height: 100vh;
+  place-items: center;
+}
+
+button {
+  outline: none;
+}
